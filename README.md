@@ -21,7 +21,7 @@ Tocca **Scarica** e installala sopra quella attuale (i tuoi dati restano).
 
 Su iPhone l'app si usa dal browser e si aggiunge alla schermata Home (niente App Store).
 
-1. Apri **[https://PWA-ADDRESS-HERE](https://PWA-ADDRESS-HERE)** con **Safari** (non Chrome).
+1. Apri **[https://clan-hub.pages.dev](https://clan-hub.pages.dev)** con **Safari** (non Chrome).
 2. Tocca il tasto **Condividi** (il quadrato con la freccia in su).
 3. Scorri e tocca **Aggiungi alla schermata Home**, poi **Aggiungi**.
 4. Apri **Clan Hub** dall'icona sulla Home, registrati e attendi l'approvazione.
